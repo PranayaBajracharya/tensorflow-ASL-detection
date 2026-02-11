@@ -1,0 +1,15 @@
+# Large files and directories
+*.h5
+*.pkl
+*.pth
+models/
+data/
+__pycache__/
+captured_signs/
+myenv/
+*.pyc
+*.pyo
+*.egg-info/
+.DS_Store
+.env
+.venv
